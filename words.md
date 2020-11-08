@@ -1,5 +1,7 @@
 # Words
 
+## English Words
+
 ### leverage
 [LONGMAN](https://www.ldoceonline.com/dictionary/leverage)<br>
 利用, 杠杆, use
@@ -12,3 +14,8 @@
 encapsulate sth. **in** sth.
 
 - the prior **encapsulated** in pretrained face Generative Adversarial Network (GAN) models such as StyleGAN
+
+## 中文 -> English
+
+### 使用了
+use, employ, deploy, leverage, utilize
