@@ -1,6 +1,6 @@
 # Words
 
-1. [leverage](https://www.ldoceonline.com/dictionary/leverage): 利用, use
+#### [leverage](https://www.ldoceonline.com/dictionary/leverage): 利用, use
 
 <details>
   <summary>Examples</summary>
@@ -9,7 +9,7 @@
 </ul>
 </details>
 
-1. [encapsulated](https://www.ldoceonline.com/dictionary/encapsulate): 封装
+#### [encapsulated](https://www.ldoceonline.com/dictionary/encapsulate): 封装
 
 <details>
   <summary>Examples</summary>
