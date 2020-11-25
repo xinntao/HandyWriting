@@ -18,3 +18,13 @@
 
 ### 使用了
 use, employ, deploy, leverage, utilize
+
+
+动词
+
+形容词, 副词
+
+名词 (注意和形容词的转化)
+
+连词
+
