@@ -4,6 +4,5 @@
 
 ## :scroll: 许可和致谢
 
-本项目使用 [MIT license](./LICENSE).
-
+本项目使用 [MIT license](./LICENSE).<br>
 Icon 图片来自 [subpng](https://www.subpng.com/png-ezk3uz/).
